@@ -43,5 +43,5 @@ Thanks to our instructor Kalonji Kalala at the University of Ottawa for providin
 ## Contact
 For any inquiries, please reach out via email:
 
-Owen Halvorson: ohalvo049@uottawa.ca
+Owen Halvorson: ohalv049@uottawa.ca
 Lina Moussadek: lmous090@uottawa.ca
