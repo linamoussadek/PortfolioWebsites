@@ -1,6 +1,6 @@
 # Personal Portfolio Website - CSI3140 Project
 
-See the rest of Owen's individual commit history at : https://github.com/OHalvorson77/portfolio
+See the rest of Owen's individual commit history at : https://github.com/OHalvorson77/portfolio. The code was combined into one respository about halfway through the work of Owen's portfolio.
 
 ## Overview
 This repository contains the source code for the personal portfolio websites of Owen and Lina, developed as a part of Assignment 1 for group 13 in the course CSI3140 at the University of Ottawa. 
