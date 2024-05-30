@@ -25,7 +25,7 @@ No installation is required. You can view the portfolios directly in any modern 
 To view the portfolios, simply clone the repository and open the `indexLina.html` or `indexOwen.html` file to view Lina or Owen's directory in a web browser. Or, use the button on the website to toggle between portfolios.
 
 ```bash
-git clone https://github.com/linamoussadek/PortfolioWebsite.git
+git clone https://github.com/linamoussadek/PortfolioWebsites.git
 open indexLina.html
 open indexOwen.html
 ```
