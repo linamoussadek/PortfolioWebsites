@@ -193,6 +193,11 @@ nav a:hover {
     max-width: 150px; 
     margin-right: 10px;
 }
+
+.tictactoe img {
+    max-width: 300px; 
+    margin-right: 10px;
+}
 /*End of Owen Project Styling Section*/
 
 /*Owen Contact Styling Section*/ 
